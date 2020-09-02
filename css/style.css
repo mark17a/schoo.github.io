@@ -1,0 +1,93 @@
+/***********************TAG SELECTORS**************/
+body {
+  background-color: powderblue;
+  margin-left: 20px;
+  text-align: center;
+  font-family: serif;
+  background-image: url(https://image.shutterstock.com/z/stock-vector-web-development-coding-and-programming-responsive-layout-internet-site-or-app-of-devices-creation-1449924503.jpg);
+}
+
+hr {
+  background-color: white;
+  width: 10;
+  border-style: dotted none none;
+}
+
+img {
+  height: 200px;
+}
+
+h1 {
+  color: red;
+}
+
+h3 {
+  color: yellow;
+  font-style: italic;
+  font-size: 25px;
+
+}
+
+h2 {
+  color: green;
+  font-style: italic;
+  font-size: 25px
+}
+
+table {
+  width: 50%;
+}
+div{
+  display: block;
+ color: red;
+}
+
+p{
+  color: red;
+  font-size: 40px;
+}
+li{
+  color: orange;
+  font-size: 20px;
+  font-style: italic;
+}
+td{
+  font-size: 23px;
+  font-style: italic;
+  color: purple;
+}
+ul{
+  margin-left: 600px;
+  margin-right: 500px;
+}
+
+
+/************************CLASS SELECTORS********/
+.thor {
+  height: 350px;
+}
+
+.VISHAL {
+  left: 20px;
+}
+
+a {
+  text-decoration: none;
+  padding: 5px 20px;
+  border: 1px solid transparent;
+}
+
+a:hover {
+  background-color: white;
+  color: black;
+}
+.ben{
+  text-decoration: none;
+  padding: 5px 20px;
+  border: 1px solid transparent;
+  border: 5px solid;
+}
+.ben:hover{
+  background-color: white;
+  color: black;
+}
